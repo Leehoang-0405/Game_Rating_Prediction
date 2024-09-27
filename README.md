@@ -3,13 +3,9 @@
 ## Purpose
 The primary objective of this project is to analyze factors influencing game ratings for Play Quest Conquer (PQC), an online gaming platform headquartered in Sydney, Australia. By applying supervised machine learning techniques using Python, we aim to extract valuable insights from the provided dataset, estimate game ratings, and identify strategies for enhancing user satisfaction and game acquisition.
 
-## Project Overview
-- **Date:** Friday, 9th August 2024
-- **Submission Time:** 8:00 PM AEST (Melbourne), 3:30 PM IST (GIFT City)
-- **Maximum Word Count:** 2000 words
 
 ## Case Study
-PQC offers a diverse collection of online games for a monthly subscription fee, allowing users to browse, select, and pay for games. Users can mark games as 'Interest' or 'High Interest' to express their desire to be invited to play. The dataset provided includes various metrics, including `Average_Ratings` and `Adjusted Average_Ratings`, which are crucial for our analysis.
+PQC offers a diverse collection of online games for a monthly subscription fee, allowing users to browse, select, and pay for games. Users can mark games as 'Interest' or 'High Interest' to express their desire to be invited to play. The dataset provided includes various metrics, including `Average_Ratings`, which are crucial for our analysis.
 
 ### Objectives
 1. **Extract Insights:**
